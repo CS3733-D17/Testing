@@ -1,9 +1,6 @@
 Jeffrey Estrada
-<<<<<<< HEAD
 Jason Abel
-=======
 Srinivas Lade
 Michael Steidel
 Matthew Boros
 John Stegeman
->>>>>>> 853101f9d1f63236799829dc3ac339037aa43d56
